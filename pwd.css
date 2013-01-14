@@ -1,0 +1,41 @@
+.pwd_xBtn {
+  position: absolute;
+  margin-left: 13em;
+  cursor: pointer;
+}
+
+.pwdPad {
+  display: none;
+  margin: 0 auto 20px;
+  height: auto;
+  width: 17em;
+}
+
+.pwd_container {
+    padding: 1em;
+    height: auto;
+    width: 5em;
+}
+
+.pwd_androidPad {
+  padding-top: 1.5em;
+  height: 12em;
+  width: 14.5em;
+  background: rgb(209, 209, 209);
+}
+
+.pwd_row {
+  list-style-type: none;
+  float: left;
+}
+
+.pwd_row li {
+  margin-right: 1em;
+  float: left;
+}
+
+.pwd_circle {
+  background-color: rgb(73, 159, 226);
+  height: 3em;
+  width: 3em;
+}
